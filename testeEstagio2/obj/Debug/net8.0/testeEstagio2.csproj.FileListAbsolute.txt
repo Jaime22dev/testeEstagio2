@@ -1,0 +1,14 @@
+c:\Users\5952826\source\repos\testeEstagio2\testeEstagio2\bin\Debug\net8.0\testeEstagio2.exe
+c:\Users\5952826\source\repos\testeEstagio2\testeEstagio2\bin\Debug\net8.0\testeEstagio2.deps.json
+c:\Users\5952826\source\repos\testeEstagio2\testeEstagio2\bin\Debug\net8.0\testeEstagio2.runtimeconfig.json
+c:\Users\5952826\source\repos\testeEstagio2\testeEstagio2\bin\Debug\net8.0\testeEstagio2.dll
+c:\Users\5952826\source\repos\testeEstagio2\testeEstagio2\bin\Debug\net8.0\testeEstagio2.pdb
+c:\Users\5952826\source\repos\testeEstagio2\testeEstagio2\obj\Debug\net8.0\testeEstagio2.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\5952826\source\repos\testeEstagio2\testeEstagio2\obj\Debug\net8.0\testeEstagio2.AssemblyInfoInputs.cache
+c:\Users\5952826\source\repos\testeEstagio2\testeEstagio2\obj\Debug\net8.0\testeEstagio2.AssemblyInfo.cs
+c:\Users\5952826\source\repos\testeEstagio2\testeEstagio2\obj\Debug\net8.0\testeEstagio2.csproj.CoreCompileInputs.cache
+c:\Users\5952826\source\repos\testeEstagio2\testeEstagio2\obj\Debug\net8.0\testeEstagio2.dll
+c:\Users\5952826\source\repos\testeEstagio2\testeEstagio2\obj\Debug\net8.0\refint\testeEstagio2.dll
+c:\Users\5952826\source\repos\testeEstagio2\testeEstagio2\obj\Debug\net8.0\testeEstagio2.pdb
+c:\Users\5952826\source\repos\testeEstagio2\testeEstagio2\obj\Debug\net8.0\testeEstagio2.genruntimeconfig.cache
+c:\Users\5952826\source\repos\testeEstagio2\testeEstagio2\obj\Debug\net8.0\ref\testeEstagio2.dll
